@@ -51,7 +51,7 @@ The **PhonePe Dashboard** is an interactive Power BI project designed to analyze
 
 ## Screenshot
 
-Show what the dashboard looks like.- ![Alt_text](https://github.com/username/repo/assests/image.png)
+
 Example: ![Dashboard_Preview](https://github.com/mdmudassiralam/PowerBI_Dashboard/blob/main/Phonepe.png)
 
 
